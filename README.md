@@ -2,10 +2,10 @@
 Read manga from your favourites websites on telegram.
 
 ## Current Development Bot
-[@idkpythonbot](https://t.me/idkpythonbot)
+[@Manga_Downloaderx_bot](https://t.me/Manga_Downloaderx_bot)
 
 ## Telegram Channel
-[tg_manga_bot](https://t.me/tg_manga_bot)
+[WIZARD_BOTS](https://t.me/WIZARD_BOTS)
 
 ## Commands
 ```
