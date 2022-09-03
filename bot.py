@@ -154,9 +154,9 @@ async def on_start(client: Client, message: Message):
                         "How to use? Just type the name of some manga you want to keep up to date.\n"
                         "\n"
                         "For example:\n"
-                        "`Fire Force`\n"
+                        "`One Piece`\n"
                         "\n"
-                        "Check /help for more information.")
+                        "Check /help for more information. Update @Wizard_Bots")
 
 
 @bot.on_message(filters=filters.command(['help']))
